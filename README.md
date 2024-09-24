@@ -57,6 +57,10 @@ Contiene datos sobre las reseñas de los y las clientes:
 - Identifica al autor que tiene la más alta calificación promedio del libro: mira solo los libros con al menos 50 calificaciones.
 - Encuentra el número promedio de reseñas de texto entre los usuarios que calificaron más de 50 libros.
 
+## Diagrama ER(entidad-relación)
+
+![App Screenshot](Diagrama-de-datos.png)
+
 ## Conectarse a la base de datos
 
 Usa el siguiente código para crear una conexión a la base de datos:
